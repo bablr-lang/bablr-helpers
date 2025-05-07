@@ -17,7 +17,6 @@
     "./productions": "./lib/productions.js",
     "./shorthand": "./lib/shorthand.js",
     "./source": "./lib/source.js",
-    "./stream": "./lib/stream.js",
     "./symbols": "./lib/symbols.js",
     "./tree": "./lib/tree.js",
     "./trivia": "./lib/trivia.js",
