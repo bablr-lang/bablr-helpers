@@ -24,8 +24,8 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@bablr/language_enhancer-debug-log": "0.12.2",
-    "@bablr/strategy_enhancer-debug-log": "0.11.1",
+    "@bablr/language_enhancer-debug-log": "0.12.3",
+    "@bablr/strategy_enhancer-debug-log": "0.11.2",
     "@bablr/stream-iterator": "2.0.0",
     "@bablr/agast-helpers": "0.10.4",
     "@bablr/agast-vm-helpers": "0.10.4",
