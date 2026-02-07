@@ -24,12 +24,12 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@bablr/language_enhancer-debug-log": "0.12.3",
-    "@bablr/strategy_enhancer-debug-log": "0.11.2",
+    "@bablr/language_enhancer-debug-log": "0.12.4",
+    "@bablr/strategy_enhancer-debug-log": "0.11.3",
     "@bablr/stream-iterator": "2.0.0",
-    "@bablr/agast-helpers": "0.10.4",
-    "@bablr/agast-vm-helpers": "0.10.4",
-    "@bablr/boot": "0.11.3",
+    "@bablr/agast-helpers": "0.10.10",
+    "@bablr/agast-vm-helpers": "0.10.5",
+    "@bablr/boot": "0.11.4",
     "@bablr/coroutine": "0.1.0",
     "iter-tools-es": "^7.5.3"
   },
