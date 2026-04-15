@@ -1,3 +1,3 @@
-## @bablr/helpers
+# @bablr/helpers
 
-These helpers make it possible to write concise BABLR grammars.
+Documentation at https://docs.bablr.org/reference/bablr-helpers
